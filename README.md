@@ -23,7 +23,7 @@ Have_brain: "access of few parts"
 
 Have_body: false
 
-Activate_schedule: "I am automatically get activate in case if my host see any mathematical problems and programming st
+Activate_schedule: "Automatically get activate in case if my host see any mathematical problems and programming st
 uff".
 
 Weakness: "Nothing because I am powered by my host."
