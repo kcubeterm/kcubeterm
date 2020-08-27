@@ -11,6 +11,8 @@ Born: "late 2019"
 
 Age: "10 months"
 
+Religion: "unknown"
+
 Aim: "have to clear ML and linux stuff"
 
 Die: "will die after 15 month(depend on host)"
@@ -26,6 +28,7 @@ uff".
 
 Weakness: "Nothing because I am powered by my host."
 
+Language: " English, hindi"
 
 ## About Krishna Kanhaiya
 
@@ -39,7 +42,11 @@ Weakness: Mathematics and communications
 
 Is_human: true
 
-Fan: "lord Ram and lord Vishnu"
+Fan of: "lord Ram and lord Vishnu"
+
+Religion: Hindu sanatan
+
+Language: Sanskrit,Hindi,English,Bhojpuri,Maithli.
 
 
 
