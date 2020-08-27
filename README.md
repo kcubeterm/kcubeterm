@@ -29,7 +29,7 @@ Weakness: "Nothing because I am powered by my host."
 
 ## About Krishna Kanhaiya
 
-He is a 17 year guy who want to become a neurologist.
+He is a 17 year guy who want to become a neurologist and a guy who create and host me in his brain.
 
 Age: 17
 
