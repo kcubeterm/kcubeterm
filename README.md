@@ -7,7 +7,7 @@ I am big fan of @xeffyr and termux project.
 
 I get motivation from @xeffry and @fornwall, anyway I love all maintainer of termux and contributer as well.
 
-Born: "late 2019"
+Born: "late 2019 in new Delhi ,India"
 
 Age: "10 months"
 
