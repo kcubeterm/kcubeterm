@@ -3,9 +3,9 @@
 kcubeterm is a second avatar of krishna Kanhaiya.
 
 
-I am big fan of @xeffyr and termux project.
+A big  fan of @xeffyr and termux project.
 
-I get motivation from @xeffry and @fornwall, anyway I love all maintainer of termux and contributer as well.
+get motivation from @xeffry and @fornwall, anyway I love all maintainer of termux and contributer as well.
 
 Born: "late 2019 in new Delhi ,India"
 
@@ -32,7 +32,7 @@ Language: " English, hindi"
 
 ## About Krishna Kanhaiya
 
-He is a 17 year guy who want to become a neurologist and a guy who create and host me in his brain.
+A 17 year guy ,want to become a neurologist and a guy who create kcubeterm.
 
 Age: 17
 
