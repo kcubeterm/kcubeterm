@@ -3,7 +3,7 @@
 kcubeterm is a second avatar of krishna Kanhaiya.
 
 
-A big  fan of @xeffyr and termux project.
+A big  fan of termux project.
 
-get motivation from [xeffry](https://github.com/xeffyr) and @fornwall.
+Get motivation from [@xeffry](https://github.com/xeffyr) and [@fornwall](https://GitHub.com/fornwall) .
 
