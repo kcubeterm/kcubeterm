@@ -1,0 +1,25 @@
+name: aarch64
+on: 
+  workflow_dispatch:
+
+
+jobs:
+    publish:
+        runs-on: ubuntu-latest
+        steps:
+        - name: "Cloning repo" 
+          uses: actions/checkout@v2
+
+        - name: "create aarch64_sum.txt"
+          run: |
+                bash aarch64.sh
+                
+        - name: Pushes to another repository
+          uses: cpina/github-action-push-to-another-repository@master
+          env:
+            API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          with:
+            source-directory: 'output'
+            destination-github-username: 'kcubeterm'
+            destination-repository-name: 'kcubeterm'
+            user-email: kcubeterm@gmail.com     
